@@ -274,7 +274,7 @@ CREATE TABLE product
     product_name varchar(255),
     price int
 );
-
+    
 INSERT INTO product VALUES
 ('Phone', 'Apple', 'iPhone 12 Pro Max', 1300),
 ('Phone', 'Apple', 'iPhone 12 Pro', 1100),
